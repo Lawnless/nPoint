@@ -1,0 +1,11 @@
+C:\Users\lawnl\source\repos\nPoint\bin\Debug\nPoint.exe.config
+C:\Users\lawnl\source\repos\nPoint\bin\Debug\nPoint.exe
+C:\Users\lawnl\source\repos\nPoint\bin\Debug\nPoint.pdb
+C:\Users\lawnl\source\repos\nPoint\obj\Debug\nPoint.csproj.AssemblyReference.cache
+C:\Users\lawnl\source\repos\nPoint\obj\Debug\nPoint.csproj.SuggestedBindingRedirects.cache
+C:\Users\lawnl\source\repos\nPoint\obj\Debug\nPoint.Form1.resources
+C:\Users\lawnl\source\repos\nPoint\obj\Debug\nPoint.Properties.Resources.resources
+C:\Users\lawnl\source\repos\nPoint\obj\Debug\nPoint.csproj.GenerateResource.cache
+C:\Users\lawnl\source\repos\nPoint\obj\Debug\nPoint.csproj.CoreCompileInputs.cache
+C:\Users\lawnl\source\repos\nPoint\obj\Debug\nPoint.exe
+C:\Users\lawnl\source\repos\nPoint\obj\Debug\nPoint.pdb
